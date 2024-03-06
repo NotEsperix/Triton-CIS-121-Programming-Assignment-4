@@ -1,6 +1,4 @@
-#Triton College CIS 121 Coursework
-
-**Programming Assignment 4**
+**Triton College CIS 121 Coursework Programming Assignment 4**
 
 *Introduction*
 
